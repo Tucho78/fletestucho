@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tucho78.github.io/static/css/main.26dfb278.css",
+    "main.js": "/tucho78.github.io/static/js/main.596d581b.js",
+    "static/js/787.1990c0b1.chunk.js": "/tucho78.github.io/static/js/787.1990c0b1.chunk.js",
+    "static/media/whatsapp-icon.png": "/tucho78.github.io/static/media/whatsapp-icon.958ba88839ff6fcb5f2f.png",
+    "index.html": "/tucho78.github.io/index.html",
+    "main.26dfb278.css.map": "/tucho78.github.io/static/css/main.26dfb278.css.map",
+    "main.596d581b.js.map": "/tucho78.github.io/static/js/main.596d581b.js.map",
+    "787.1990c0b1.chunk.js.map": "/tucho78.github.io/static/js/787.1990c0b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26dfb278.css",
+    "static/js/main.596d581b.js"
+  ]
+}
